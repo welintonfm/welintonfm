@@ -10,7 +10,7 @@
 
 ### Meu Spotify 🎧
 
-[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="welintonfm spotify" width="350" />](https://open.spotify.com/user/22ni4dhetazs3ql33m3fzvjdi)
+[![Spotify](https://nowplaying-pearl.vercel.app/api/spotify)](https://open.spotify.com/user/22ni4dhetazs3ql33m3fzvjdi)
 
 ### Me chama pra bater um papo:
 

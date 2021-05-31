@@ -40,14 +40,6 @@
 <br />
 <br />
 
----
-
-<details>
-  <summary>:zap: GitHub</summary>
-
-  <img align="left" alt="welintonfm GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=welintonfm&show_icons=true&hide_border=true" />
-
-</details>
 
 [games]: https://welintonfaria.itch.io/
 [facebook]: https://facebook.com/welintonfm
